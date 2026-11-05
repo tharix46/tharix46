@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**tharix46/tharix46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tharindu, a DevOps aspirant from Sri Lanka. 
 
-Here are some ideas to get you started:
+I mostly work on infrastructure and cloud — Linux, AWS, Terraform, Kubernetes, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Technologies
+
+| Category                  | Tools                        |
+|---------------------------|------------------------------|
+| Cloud                     | AWS                          |
+| Infrastructure as Code    | Terraform                    |
+| Containers & Orchestration| Docker, Kubernetes           |
+| CI/CD & GitOps            | GitHub Actions, ArgoCD       |
+| Configuration Management  | Ansible                      |
+| Operating System          | Linux                        |
+| Web Servers               | Nginx                        |
+ 
+---
+ 
+### A Bit About Me
+ 
+- 🎸 Play guitar
+- 🪴 Plant parent — currently keeping a pothos alive
+- ⚽ Ici c'est Paris
+- 🔧 Enjoy breaking things and figuring out why
+- ☕  Probably debugging something right now...
+
+---
+
+### Get in Touch
+
+📧 tharindu3646@gmail.com
+
+---
