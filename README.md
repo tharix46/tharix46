@@ -1,4 +1,4 @@
-### Hey there 👋
+# Hey there 👋
 
 I'm Tharindu, a DevOps aspirant from Sri Lanka. 
 
