@@ -1,4 +1,4 @@
-# Hey there 👋
+### Hey there 👋
 
 I'm Tharindu, a DevOps aspirant from Sri Lanka. 
 
@@ -8,15 +8,10 @@ I mostly work on infrastructure and cloud — Linux, AWS, Terraform, Kubernetes,
 
 ### Tools & Technologies
 
-| Category                  | Tools                        |
-|---------------------------|------------------------------|
-| Cloud                     | AWS                          |
-| Infrastructure as Code    | Terraform                    |
-| Containers & Orchestration| Docker, Kubernetes           |
-| CI/CD & GitOps            | GitHub Actions, ArgoCD       |
-| Configuration Management  | Ansible                      |
-| Operating System          | Linux                        |
-| Web Servers               | Nginx                        |
+- **Cloud & IaC -** AWS, Terraform
+- **Containers & Orchestration -** Docker, Kubernetes
+- **CI/CD & GitOps -** GitHub Actions, ArgoCD
+- **Other -** Linux, Ansible, Nginx
  
 ---
  
