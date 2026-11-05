@@ -32,6 +32,6 @@ I mostly work on infrastructure and cloud — Linux, AWS, Terraform, Kubernetes,
 
 ### Get in Touch
 
-📧 tharindu3646@gmail.com
+📧 [tharindu3646@gmail.com](mailto:tharindu3646@gmail.com)
 
 ---
