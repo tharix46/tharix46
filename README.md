@@ -11,7 +11,7 @@ I mostly work on infrastructure and cloud — Linux, AWS, Terraform, Kubernetes,
 - **Cloud & IaC -** AWS, Terraform
 - **Containers & Orchestration -** Docker, Kubernetes
 - **CI/CD & GitOps -** GitHub Actions, ArgoCD
-- **Other -** Linux, Ansible, Nginx
+- **Other -** Linux, Bash Scripting, Ansible, Nginx
  
 ---
  
@@ -22,11 +22,5 @@ I mostly work on infrastructure and cloud — Linux, AWS, Terraform, Kubernetes,
 - ⚽ Ici c'est Paris
 - 🔧 Enjoy breaking things and figuring out why
 - ☕  Probably debugging something right now...
-
----
-
-### Get in Touch
-
-📧 [tharindu3646@gmail.com](mailto:tharindu3646@gmail.com)
 
 ---
